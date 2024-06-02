@@ -1,6 +1,6 @@
 // Game Constants & Variables
 let inputDir = {x: 0, y: 0}; 
-const foodSound = new Audio('https://music/food.mp3');
+const foodSound = new Audio('snake_game/music/food.mp3');
 const gameOverSound = new Audio('https://music/gameover.mp3');
 const moveSound = new Audio('https://music/move.mp3');
 const musicSound = new Audio('https://music/music.mp3');
